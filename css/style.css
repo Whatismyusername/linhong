@@ -1,0 +1,123 @@
+html{
+    margin:0;
+    font-family: 'Courgette', cursive;
+}
+body{
+    margin:0;
+}
+h1{
+    font-size:5rem;
+    margin:0;
+}
+div{
+    
+}
+
+
+
+
+
+
+.wholePage{
+    margin:0;
+    padding:0;
+    height:100vh;
+    position:relative;
+}
+.backImg{
+    position:absolute;
+    width: 100%;
+    height: 100%;
+    background-attachment:fixed;
+    background-size:cover;
+    background-repeat:no-repeat;
+    opacity:0.5;
+}
+.heading{
+    position:relative;
+    top:33%;
+    height:40vh;
+    width:500px;
+    margin:auto;
+    text-align:center;
+}
+.floatLeft{
+    float:left;
+}
+.galaryBtn{
+    padding:0;
+    width:50%;
+    height:100%;
+    float:left;
+    font-family: 'Courgette', cursive;
+    font-size:2rem;
+    background:white;
+}
+.sticky{
+    position:fixed;
+    top:0;
+    width:100%;
+}
+.projectDiv{
+    width:28vw;
+    height:50vh;
+    text-align:center;
+    border:black 1px solid;
+    border-radius:10px;
+    margin-right:3%;
+    margin-bottom:5%;
+    float:left;
+    overflow-y:scroll;
+}
+.projectImg{
+    width:80%;
+    margin-left:10%;
+    margin-right:10%;
+    margin-bottom:10%;
+    
+}
+.projectRepo,.projectLink{
+    color:black;
+}
+
+
+
+
+
+
+#canvas{
+    top:0;
+    left:0;
+    margin:0;
+    padding:0;
+}
+#description{
+    position:relative;
+    display:inline-block;
+    font-size:1.8rem;
+    font-family:'Dosis', sans-serif;
+}
+#descriptionTitle{
+    text-align:center;
+}
+#descriptionText{
+    margin:20%;
+    padding:5%;
+}
+#galary{
+    position:relative;
+}
+#galaryNav{
+    height:10vh;
+    top:0;
+    width:100%;
+}
+#galaryHeader{
+    text-align:center;
+    margin:15px;
+}
+#project{
+    height:3000px;
+    margin-left:3%;
+    margin-top:5%;
+}
