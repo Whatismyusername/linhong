@@ -44,7 +44,7 @@ div{
 .floatLeft{
     float:left;
 }
-.galaryBtn{
+.galleryBtn{
     padding:0;
     width:50%;
     height:100%;
@@ -104,15 +104,15 @@ div{
     margin:20%;
     padding:5%;
 }
-#galary{
+#gallery{
     position:relative;
 }
-#galaryNav{
+#galleryNav{
     height:10vh;
     top:0;
     width:100%;
 }
-#galaryHeader{
+#galleryHeader{
     text-align:center;
     margin:15px;
 }
